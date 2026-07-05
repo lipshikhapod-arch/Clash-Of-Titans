@@ -1,4 +1,2 @@
 # Clash-Of-Titans
-This is my first git repository
-<br>
-Author - Lipshikha Pod
+A modern MOBA gaming website built using HTML, CSS, and Bootstrap.
